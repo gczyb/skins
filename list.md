@@ -1,4 +1,4 @@
-# [barna](osu.ppy.sh/u/barna)'s skins
+# [barna](https://osu.ppy.sh/users/10401304)'s skins
 
 <p align="center"> 
   last updated - <b>December 3rd, 2023</b>
